@@ -1,43 +1,29 @@
-## OLA, EU SOU O GUILHERME
+# 👋 Olá, eu sou o Guilherme Augusto!
 
+🎓 Estudante de Ciência da Computação na UFABC  
+💻 Focado em desenvolvimento back-end com .NET e Django  
+🎯 Buscando oportunidades como desenvolvedor júnior ou estagiário
 
-### SOBRE MIM
+## 🚀 Tecnologias que uso
+- C#, .NET, ASP.NET Core, Blazor
+- Python, Django
+- Java, Spring Boot
+- MySQL, PostgreSQL
+- Azure
 
-* 🌱 Sou estudante de Ciencia da Computacao na UFABC.
-* 🌱 Tecnologias
-  - C# / .NET
-  - Python / Django
+## 🧩 Projetos em Destaque
 
-### TECNOLOGIAS
-<div>
-  <img height="50em" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" />
-  <img height="50em" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="50em" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="50em" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-</div>
+### 🎮 [Rapdle](https://github.com/GuiAugus/RapGame)
+> Jogo interativo no estilo Wordle feito em Blazor com API REST, JWT e hints baseados em atributos musicais.
 
-##
+### 💿 [Album Review](https://github.com/GuiAugus/MvcAlbumReview)
+> Aplicação MVC com ASP.NET Core para cadastro e review de álbuns musicais.
 
-<div>
-  <a href="https://www.linkedin.com/in/guiaugus/" alt="LinkeDin" target="_blank"><img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+### 🎮 [Games Review](https://github.com/GuiAugus/review_jogos)
+> Aplicação MVC com Django para cadastro e review de jogos eletronicos.
 
-</a>
-          
-</div>
-          
+---
 
-
-<!--
-**GuiAugus/GuiAugus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contato**  
+[LinkedIn](https://linkedin.com/in/GuiAugus)  
+📧 augusto.g@outlook.com.br
